@@ -1,0 +1,7 @@
+pytest
+pytest-env
+pyyaml
+dotmap
+pika
+timeloop
+requests

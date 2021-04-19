@@ -1,0 +1,9 @@
+test:
+  host: 'amqps://pjndrhcg:8NUuAP5Kg6GjoCot9AM1o9kcbxodRHgS@hornet.rmq.cloudamqp.com/pjndrhcg'
+  exchange: 'amq.direct'
+  queue: 'TEST::NEW'
+  durable: True
+  prefetch:
+    count: 1
+  user: 'appuser'
+  passwd: '9aamUfUA2VX086Xl'
